@@ -43,8 +43,9 @@
         <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
         <img src="https://img.shields.io/badge/-WINDOWS%20TERMINAL-black?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
         <img src="https://img.shields.io/badge/-UBUNTU-orange?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-APACHE%20KAFKA-black?style=for-the-badge&logo=apache-kafka&logoColor=white"/>     
+        <img src="https://img.shields.io/badge/-APACHE%20KAFKA-black?style=for-the-badge&logo=apache-kafka&logoColor=white"/>         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>   
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
         
         
 </a>
