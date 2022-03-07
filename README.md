@@ -13,19 +13,10 @@
         <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>      
 </a>
 
-
-- Atualmente explorando:
-<a href= https://github.com/Fmoreira12>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>      
-</a>
-
 ### 2. Conhecimentos de Banco de Dados:
 <a href= https://github.com/Fmoreira12>
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>    
 </a>
-
-
 
 - Atualmente estudando:
 <a href= https://github.com/Fmoreira12>
