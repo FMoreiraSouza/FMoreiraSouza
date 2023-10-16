@@ -7,7 +7,7 @@
 
 # 🧑🏽‍💻 Habilidades
 
-### 1. Conhecimentos de Desenvolvimento Móvel:
+### 1. Conhecimentos de Desenvolvimento Mobile:
 <a href= https://github.com/Fmoreira12>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
