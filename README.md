@@ -7,7 +7,7 @@
 
 # 🧑🏽‍💻 Habilidades
 
-### 1. Conhecimentos de desenvolvimento mobile:
+### 1. Conhecimentos de Desenvolvimento Móvel:
 <a href= https://github.com/Fmoreira12>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
 </a>        
 
-### 3. Tive atuação com:
+### 3. Atuei com:
 <a href= https://github.com/Fmoreira12>   
         <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>            
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
