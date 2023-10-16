@@ -1,6 +1,6 @@
 # 👨🏽‍🎓  Felipe Moreira de Souza
 
-- 🎓 Graduado em Ciência da Computação pela UFC
+- 🎓 Graduado em Ciência da Computação
 - 🌐 Entusiasta em Indústria 4.0
 - 📱 Entusiasta em Desenvolvimento Mobile e explorando as suas tecnologias
 - 💽 Estudando tecnologias relacionadas a Banco de Dados (SGBDs) aplicadas para aplicativos móveis
