@@ -2,10 +2,10 @@
 
 - 🎓 Graduado em Ciência da Computação
 - 📱 Pós-graduando em Desenvolvimento de Aplicativos Móveis
-- 🌐 Entusiasta em Indústria 4.0
+- 🏭 Entusiasta em Indústria 4.0
 - 💽 Estudando tecnologias relacionadas a Banco de Dados (SGBDs) aplicadas para aplicativos móveis
 
-###  🌐 Rede Profissional:
+### 🌐 Rede Profissional:
 <a href="https://www.linkedin.com/in/felipe-moreira-b16147200">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
