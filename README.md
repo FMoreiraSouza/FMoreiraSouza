@@ -1,9 +1,9 @@
 # 👨🏽‍🎓  Felipe Moreira de Souza
 
-- 🎓 Graduado em Ciência da Computação
+- 💻 Graduado em Ciência da Computação
 - 📱 Pós-graduando em Desenvolvimento de Aplicativos Móveis
 - 🏭 Entusiasta em Indústria 4.0
-- 💽 Estudando tecnologias relacionadas a Banco de Dados (SGBDs) aplicadas para aplicativos móveis
+- 💽 Explorando tecnologias relacionadas a Banco de Dados (SGBDs) aplicadas para aplicativos móveis
 
 ### 🌐 Rede Profissional:
 <a href="https://www.linkedin.com/in/felipe-moreira-b16147200">
