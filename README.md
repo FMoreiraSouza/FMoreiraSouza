@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Felipe!
+# 👋, eu sou o Felipe!
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FmoreiraSouza&show_icons=true&theme=dracula" />
