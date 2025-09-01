@@ -1,5 +1,7 @@
 # 👋, eu sou o Felipe!
 
+💻 Desenvolvedor Mobile com mais de 2 anos de experiência, focado em desenvolvimento de aplicativos híbridos modernos e escaláveis.
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FmoreiraSouza&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FmoreiraSouza&layout=compact&theme=dracula" />
