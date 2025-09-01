@@ -1,51 +1,38 @@
-# 👨🏽‍🎓  Felipe Moreira de Souza
+# 👨🏽‍💻 Felipe Moreira de Souza
 
-- 📱 Pós-graduando em Desenvolvimento de Aplicativos Móveis
-- 💻 Aluno Especial de Mestrado em Ciência da Computação
-- 🌐 Entusiasta em Redes Inteligentes
-- 💽 Explorando tecnologias relacionadas a Banco de Dados de Séries Temporais (TSDBs)
+Olá! Sou um entusiasta de tecnologia, focado em desenvolvimento mobile, bancos de dados e redes inteligentes. Atualmente, estou aprofundando meu conhecimento em soluções inovadoras e tecnologias emergentes.
 
-### 🌐 Rede Profissional:
-<a href="https://www.linkedin.com/in/felipe-moreira-b16147200">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+- 📱 **Pós-graduando** em Desenvolvimento de Aplicativos Móveis
+- 💻 **Aluno Especial** de Mestrado em Ciência da Computação
+- 🌐 Apaixonado por **Redes Inteligentes**
+- 💽 Explorando **Bancos de Dados de Séries Temporais (TSDBs)**
 
-# 🧑🏽‍💻 Habilidades
+## 📊 Minhas Estatísticas no GitHub
 
-### 1. Conhecimentos de Desenvolvimento Mobile:
-<a href= https://github.com/Fmoreira12>
-        <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-</a>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fmoreira12&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fmoreira12&layout=compact&theme=dracula" />
+</div>
 
-### 2. Conhecimentos de Banco de Dados e MBaaS:
-<a href= https://github.com/Fmoreira12>
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</a>        
+## 🧑🏽‍💻 Habilidades
 
-### 3. Atuei com:
-<a href= https://github.com/Fmoreira12>   
-        <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>            
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-</a>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Supabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+</div>
 
+## 🌐 Rede Profissional
 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-        
-       
-        
-        
+<div>
+  <a href="https://www.linkedin.com/in/felipe-moreira-b16147200" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://github.com/Fmoreira12" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
+</div>
